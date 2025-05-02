@@ -1,12 +1,11 @@
 
-<h1 align="center">Hi , I'm Candida Noronha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, Nicolas J. Sosa presente<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+en+Sistemas;Licenciado+en+Sistemas;DS%20|%20AI%20|%20ML%20PO;SA%20DAS;Para%20el%20mundo%20:D&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+en+Sistemas;Licenciado+en+Sistemas;PO%20|%20SA%20|%20DAS;404%20404;Voy%20a%20ser%20un%20GLOW UP&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Soy un tipazo, nacido en la tierra colorada, donde el sol besa el yerbal, el monte guarda leyendas y el río canta al pasar...detrás de cada línea, cada lógica, cada "if" y cada "while", hay una mente que quiere entender el mundo y conocer que hay mas allá</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
@@ -75,34 +74,26 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Estadisticas de Github (Expandir) 
 
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadisticas de Nicolas" src="https://github-readme-stats.vercel.app/api?username=nicolasjaviersosa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasjaviersosa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Contactate
 <p align="center">
 	<a href="mailto:nicogim.com@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/nicolasjaviersosa"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
