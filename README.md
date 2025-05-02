@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+en+Sistemas;Licenciado+en+Sistemas;PO%20|%20SA%20|%20DAS;404%20404;Voy%20a%20ser%20un%20GLOW-UP&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Soy un tipazo, nacido en la tierra colorada, donde el sol besa el yerbal, el monte guarda leyendas y el río canta al pasar...detrás de cada línea, cada lógica, cada "if" y cada "while", hay una mente que quiere entender el mundo y conocer que hay mas allá</h4>
+<h4 align="center">Nacido en la tierra colorada, donde el sol besa el yerbal, el monte guarda leyendas y el río canta al pasar... detrás de cada línea, cada lógica, cada "if" y cada "while", hay una mente que quiere entender el mundo y conocer hasta donde puede llegar.</h4>
 <br>
 
 ## 🔥 Streak Stats
@@ -47,7 +47,7 @@
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Databases
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
