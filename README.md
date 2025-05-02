@@ -1,5 +1,5 @@
 
-<h1 align="center">Repositorio de Nicolas Javier Sosa <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVndm5la2lhbXAwbXZ4M2JjY3Y2cnhpbzM1YmtoYXhwczRkbWNubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDB85YZsrqMXx3c7DE/giphy.gif" width="35"></h1>
+<h1 align="center">Repositorio de Nicolas Javier Sosa <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJiMThkY2phd2F1ejR5ZWZjMWJ1a256eTQ1MW04b2VkN2ZodXZ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="50"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+en+Sistemas;Licenciado+en+Sistemas;PO%20|%20SA%20|%20DAS;404%20404;Voy%20a%20ser%20un%20GLOW-UP&center=true&width=500&height=50"></a>
 </p>
