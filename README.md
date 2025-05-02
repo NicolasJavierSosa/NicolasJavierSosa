@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola, Nicolas J. Sosa presente<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+en+Sistemas;Licenciado+en+Sistemas;PO%20|%20SA%20|%20DAS;404%20404;Voy%20a%20ser%20un%20GLOW UP&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+en+Sistemas;Licenciado+en+Sistemas;PO%20|%20SA%20|%20DAS;404%20404;Voy%20a%20ser%20un%20GLOW-UP&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Soy un tipazo, nacido en la tierra colorada, donde el sol besa el yerbal, el monte guarda leyendas y el río canta al pasar...detrás de cada línea, cada lógica, cada "if" y cada "while", hay una mente que quiere entender el mundo y conocer que hay mas allá</h4>
